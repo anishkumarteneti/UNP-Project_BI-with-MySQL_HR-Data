@@ -1,4 +1,5 @@
-# UNP-Project_BI-with-Power-BI_HR-Data
+# UNP-Project_BI-with-MySQL
+_HR-Data
 Completed this project as part of my My SQL Internship with United Network of Professionals (UNP)
 
 Key Highlights:
